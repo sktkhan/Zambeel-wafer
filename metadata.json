@@ -1,0 +1,6 @@
+{
+  "name": "Wafers COD Studio",
+  "description": "Mobile-first UAE COD dropshipping product analyzer, Zambeel profit & RTO calculator, bilingual English & Arabic store listing and video script generator, QR/WhatsApp order builder, and daily UAE product ideas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
